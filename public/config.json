@@ -1,4 +1,12 @@
 {
-    "feature": "http://localhost:8000/feature/"
+    "server":"http://localhost:8000/",
+    "feature": "http://localhost:8000/feature/",
+    "feature_all": "http://localhost:8000/feature/all",
+    "feature_by_id":"http://localhost:8000/detail/feature/",
+    "insertRequestForm":"http://localhost:8000/insertForm/",
+    "articles":"http://localhost:8000/articles/",
+    "lastWorks":"http://localhost:8000/lastWorks/",
+    "allWorks":"http://localhost:8000/allWorks/",
+    "allBanners":"http://localhost:8000/allBanners/"
 
   }
